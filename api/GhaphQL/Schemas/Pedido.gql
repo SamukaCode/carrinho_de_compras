@@ -1,0 +1,21 @@
+type Pedido {
+  id: Int!
+  dataHora: String!
+  valor: Float!
+  itens: [PedidoItem!]!
+}
+
+type PedidoItem {
+  id: Int!
+  produto: Produto!
+  preco: Float!
+}
+
+input ProdutoInput {
+  id: Int!
+  preco: Float!
+}
+
+type Mutation {
+  createPedido(dataHora: String!, produtos: [ProdutoInput!]!): Pedido!
+}
