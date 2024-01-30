@@ -420,7 +420,7 @@ body {
   margin: 30px;
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  background-color: #eeeeee; /* Nova cor de fundo mais escura */
+  background-color: #eeeeee; 
   transition: 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
 }
 
