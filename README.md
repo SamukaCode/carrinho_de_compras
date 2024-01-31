@@ -11,9 +11,9 @@
 **Banco de dados:** MySQL
 
 ## Vídeo de Demonstração
-Para assistir ao vídeo de demonstração do projeto, clique no link abaixo para baixar o vídeo:
+Assista ao vídeo de demonstração do projeto:
 
-- [Download do Vídeo de Demonstração](crud.mp4)
+[Assista Aqui!](https://drive.google.com/file/d/1XtIqXbKRl2J_6GIjSPnF3kbpksRXxHvP/view?usp=sharing)
 
 ## Documentação da API e WEB
 
