@@ -10,6 +10,14 @@
 
 **Banco de dados:** MySQL
 
+## Vídeo de Demonstração
+Assista ao vídeo de demonstração do projeto:
+
+<video width="320" height="240" controls>
+  <source src="../carrinho_de_compras/crud.mp4" type="video/mp4">
+  Seu navegador não suporta o elemento de vídeo.
+</video>
+
 ## Documentação da API e WEB
 
 Essa interface já está moldada aos propósitos da aplicação, não sendo necessária grossas mudanças em sua estrutura, apenas no que se refere no tutorial de instalação da referida.

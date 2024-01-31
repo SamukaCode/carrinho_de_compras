@@ -283,7 +283,8 @@ export default {
           }
         }`;
 
-      axios.post("http://localhost:4000/", { query })
+      axios
+        .post("http://localhost:4000/", { query })
         .then((result) => {
           this.listaProdutos = result.data.data.todosProdutos;
         })
@@ -335,9 +336,9 @@ body {
 .abas-container {
   display: flex;
   justify-content: space-between;
-  align-items: center; 
+  align-items: center;
   margin: 0 auto;
-  max-width: 1300px; 
+  max-width: 1300px;
   height: 95vh;
 }
 
@@ -420,14 +421,13 @@ body {
   margin: 30px;
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  background-color: #eeeeee; 
+  background-color: #eeeeee;
   transition: 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
 }
 
 .aba-cadastro:hover {
   box-shadow: 0 0 40px rgba(164, 21, 142, 0.351);
 }
-
 
 .input-cadastro {
   margin-bottom: 20px;
@@ -476,8 +476,8 @@ body {
 }
 
 .btn-confirmar-sweetalert {
-  background-color: #0f7314 !important; 
-  color: white !important; 
+  background-color: #0f7314 !important;
+  color: white !important;
 }
 
 .tabela-rolagem-carrinho {
