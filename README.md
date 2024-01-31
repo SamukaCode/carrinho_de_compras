@@ -1,6 +1,6 @@
 # Carrinho de Compras
 
- O Sistema consiste em um Cadastro de Produtos e um Lançamentos de Pedidos.
+O sistema engloba um módulo de cadastro de produtos e a realização de pedidos por meio do carrinho de compras.
 
  ## Stack utilizada
 
