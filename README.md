@@ -11,12 +11,9 @@
 **Banco de dados:** MySQL
 
 ## Vídeo de Demonstração
-Assista ao vídeo de demonstração do projeto:
+Para assistir ao vídeo de demonstração do projeto, clique no link abaixo para baixar o vídeo:
 
-<video width="320" height="240" controls>
-  <source src="../carrinho_de_compras/crud.mp4" type="video/mp4">
-  Seu navegador não suporta o elemento de vídeo.
-</video>
+- [Download do Vídeo de Demonstração](../carrinho_de_compras/crud.mp4)
 
 ## Documentação da API e WEB
 
