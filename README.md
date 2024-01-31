@@ -1,6 +1,10 @@
 # Carrinho de Compras
 
-O sistema engloba um módulo de cadastro de produtos e a realização de pedidos por meio do carrinho de compras.
+Consiste em um sistema que inclui dois formulários. 
+
+O primeiro oferece a funcionalidade de cadastrar produtos e exibe uma tabela de todos os itens disponíveis. 
+
+Já o segundo permite adicionar produtos ao carrinho de compras através do código do produto, facilitando a realização de pedidos.
 
  ## Stack utilizada
 
