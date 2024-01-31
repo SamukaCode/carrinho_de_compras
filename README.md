@@ -94,7 +94,7 @@ http://localhost:4000/
 
 É necessário ter conhecimentos básicos de MySQL para instanciar um banco de dados. Este banco de dados deve se manter ligado enquanto ser necessário que a aplicação funcione.
 
-Use os comandos abaixo para criação das 5 tabelas. Você pode copiá-los todos e colar juntos ou executá-los separadamente.
+Use os comandos abaixo para criação das 3 tabelas. Você pode copiá-los todos e colar juntos ou executá-los separadamente.
 ```sql
 CREATE TABLE `produtos` (
   `id` int NOT NULL,
