@@ -13,7 +13,7 @@
 ## Vídeo de Demonstração
 Para assistir ao vídeo de demonstração do projeto, clique no link abaixo para baixar o vídeo:
 
-- [Download do Vídeo de Demonstração](../carrinho_de_compras/crud.mp4)
+- [Download do Vídeo de Demonstração](crud.mp4)
 
 ## Documentação da API e WEB
 
